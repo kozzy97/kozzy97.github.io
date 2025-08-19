@@ -12,3 +12,10 @@ I want to better understand cognition and behaviour, and I believe that to do so
 People call me Kozzy for short.
 
 Email me at kv301 \[at\] srcf \[dot\] net **or** k \[dot\] voudouris \[at\] helmholtz-munich \[dot\] de
+
+See more about what I work on:
+
+<ul class="social-links">
+  <li><a href="{{ site.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a></li>
+  <li><a href="{{ site.linkedin }}" target="_blank" rel="noopener">LinkedIn</a></li>
+</ul>
