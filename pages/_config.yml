@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- 
   Cognitive Scientist and Human-Like AI Researcher
 domain: kvoudouris.co.uk
-baseurl: "/kozzy97.github.io/pages/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kozzy97.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
