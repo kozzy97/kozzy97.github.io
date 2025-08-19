@@ -3,19 +3,10 @@
 layout: home
 ---
 
-Konstantinos Voudouris am a postdoctoral researcher at the Institute for Human-Centered AI at Helmholtz Munich. Before that I was a postdoctoral research associate at the Leverhulme Centre for the Future of Intelligence at the University of Cambridge, working on the Major Transitions in the Evolution of Cognition project. I received a PhD in Psychology from the University of Cambridge in 2024. Before that, I received an MPhil in Biological Sciences (Psychology) and a BA in Theoretical and Applied Linguistics, both from the University of Cambridge.
+Dr Konstantinos Voudouris is a research scientist at the [Institute for Human-Centered AI](https://hcai-munich.com/) at Helmholtz Munich.
 
-My current research focuses on building cognitively-inspired evaluations of Artificial Intelligence (AI), so that we can better understand what they are capable of, what they still cannot do, and whether they are cognitive in any meaningful sense. This work informs both how we should interpret and govern the safety of novel systems, as well as how we can build more robust AI systems that behave like humans and other animals. 
-
-I want to better understand cognition and behaviour, and I believe that to do so, we must use the diverse tools of the cognitive sciences. My research is firmly interdisciplinary, and I have so far drawn on animal psychology, developmental psychology, psychometrics, the philosophy of science, machine learning, artificial intelligence, evolutionary biology, and linguistics to try to better measure and theorise about cognition in diverse species, and recreate it artificially.
+His research focuses on building rigorous, cognitively-inspired evaluations of machine learning models, so that we can build better, safer, and more human-like AI, as well as informed and sensible AI policy. To get there, we must use the diverse tools of the cognitive sciences. Konstantinos is a committed interdisciplinarian, with publications and active research projects in machine learning, cognitive psychology, psychometrics, the philosophy of science, evolutionary biology, and linguistics. You can read an [annotated list of his key publications]({{ "/publications/" | relative_url }}).
 
 People call me Kozzy for short.
 
 Email me at kv301 \[at\] srcf \[dot\] net **or** k \[dot\] voudouris \[at\] helmholtz-munich \[dot\] de
-
-See more about what I work on:
-
-<ul class="social-links">
-  <li><a href="{{ site.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a></li>
-  <li><a href="{{ site.linkedin }}" target="_blank" rel="noopener">LinkedIn</a></li>
-</ul>
