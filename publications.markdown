@@ -25,8 +25,12 @@ In cognitive psychology, I played a small part in:
 In (the philosophy of) comparative cognition, I have published a number of thrillers, including:
 - [Analogies And The Associative-Cognitive Distinction In Comparative Psychology (forthcoming)](https://philsci-archive.pitt.edu/26165/). *Accepted in Biology & Philosophy*. I provide an account of the distinction between associative learning and cognition in terms of hypothesis generation and analogical reasoning.
 - [Morgan’s Canon and the Associative-Cognitive Distinction Today: A Survey of Practitioners (2024)](https://psycnet.apa.org/psycarticles/2026-17528-001.pdf). *Accepted in The Journal of Comparative Psychology*. We surveyed 220 comparative psychologists and asked them about the methodological challenges that they face when studying non-human animal cognition.
-- [The Future Is Computational Comparative Cognition](https://doi.org/10.3819/ccbr.2024.190009) *Accepted in CCBR*. We argue that comparative cognition needs computational modelling.
-- [Replications, comparisons, sampling and the problem of representativeness in animal cognition research](https://pmc.ncbi.nlm.nih.gov/articles/PMC7610843/). We tackle the problems of generalizability and representativeness in empirical animal cognition research.
+- [The Future Is Computational Comparative Cognition (2024)](https://doi.org/10.3819/ccbr.2024.190009) *Accepted in CCBR*. We argue that comparative cognition needs computational modelling.
+- [Replications, comparisons, sampling and the problem of representativeness in animal cognition research (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7610843/). We tackle the problems of generalizability and representativeness in empirical animal cognition research.
+
+In linguistics, I continue to dream of making a sizeable contribution. For now, I have contributed to:
+- [Metatheoretical linguistics: A philosopher’s guide (2024)](https://bioling.psychopen.eu/index.php/bioling/article/view/15915). *Accepted in Biolinguistics* We review Ryan Nefdt's *The Philosophy of Theoretical Linguistics* (2024), giving a balanced account of its achievements and its shortcomings over the course of 15 pages.
+- [Oops, I Did It Again: A typology of phonological iterativity (2021)](https://yale.app.box.com/s/apgexsa39cbj7k0lr1qcdl0hs9ogyer1) *Accepted at the Penn Linguistics Conference*. We present several examples and a formal analysis of iterative phonological rule applications in the phonological systems of the world's languages. I really only contributed a small amount - it was nice that the co-authors had me on-board!
 
 
 If you need help getting to sleep in the evenings, you can read:
