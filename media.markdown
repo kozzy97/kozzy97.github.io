@@ -11,4 +11,4 @@ My work has been featured in the media, including:
 
 I serve as an Editor (Recommender) at the [Peer Community In Registered Reports](https://rr.peercommunityin.org/) and I have served as a reviewer for journals and conferences in machine learning (*ICLR*, *ICML*), psychology (*Journal of Experimental Psychology*, *Cognitive Science Society*, *CCN*), philosophy of science (*BJPS*, *AI & Society*, *Synthese*), and linguistics (*Biolinguistics*, *Linguistics Vanguard*).
 
-I am open for consultancy in AI Evaluation, AI Safety, and Cognitive Machine Learning.
+I am open for consultancy in AI Evaluation, AI Safety, and Bio-Inspired Machine Learning.
