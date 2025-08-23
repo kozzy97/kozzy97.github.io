@@ -4,7 +4,7 @@ layout: home
 ---
 
 <p>
-  <img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Konstantinos Voudouris" style="float:left; margin:0 1rem 1rem 0; width:140px; height:140px; object-fit:cover; border-radius:50%;" />
+  <img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Konstantinos Voudouris" style="float:left; margin:0 1rem 1rem 0; width:160px; height:160px; object-fit:cover; border-radius:50%;" />
 </p>
 
 Dr Konstantinos Voudouris is a research scientist at the [Institute for Human-Centered AI](https://hcai-munich.com/) at Helmholtz Munich. He holds a PhD in psychology (2024) from the University of Cambridge. 
