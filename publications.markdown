@@ -23,7 +23,7 @@ In cognitive psychology, I played a small part in:
 
 
 In (the philosophy of) comparative cognition, I have published a number of thrillers, including:
-- [Analogies And The Associative-Cognitive Distinction In Comparative Psychology (forthcoming)](https://philsci-archive.pitt.edu/26165/). *Accepted in Biology & Philosophy*. I provide an account of the distinction between associative learning and cognition in terms of hypothesis generation and analogical reasoning.
+- [Analogies And The Associative-Cognitive Distinction In Comparative Psychology (2025)](https://doi.org/10.1007/s10539-025-09992-2). *Accepted in Biology & Philosophy*. I provide an account of the distinction between associative learning and cognition in terms of hypothesis generation and analogical reasoning. ([Pre-Print](https://philsci-archive.pitt.edu/26165/))
 - [Cognitive Simplicity As An Idealization (forthcoming)](https://philsci-archive.pitt.edu/26328/). *Accepted in Animal Behavior & Cognition*. I argue that considering some explanations for animal behaviour as being simpler than others is a useful idealisation for hypothesis generation, even if this practice is based on false assumptions.
 - [Morgan’s Canon and the Associative-Cognitive Distinction Today: A Survey of Practitioners (2024)](https://psycnet.apa.org/psycarticles/2026-17528-001.pdf). *Accepted in The Journal of Comparative Psychology*. We surveyed 220 comparative psychologists and asked them about the methodological challenges that they face when studying non-human animal cognition.
 - [The Future Is Computational Comparative Cognition (2024)](https://doi.org/10.3819/ccbr.2024.190009) *Accepted in CCBR*. We argue that comparative cognition needs computational modelling.
