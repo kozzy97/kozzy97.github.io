@@ -29,6 +29,9 @@ In (the philosophy of) comparative cognition, I have published a number of thril
 - [The Future Is Computational Comparative Cognition (2024)](https://doi.org/10.3819/ccbr.2024.190009) *Accepted in CCBR*. We argue that comparative cognition needs computational modelling.
 - [Replications, comparisons, sampling and the problem of representativeness in animal cognition research (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7610843/). We tackle the problems of generalizability and representativeness in empirical animal cognition research.
 
+In evolutionary biology, I have just one contribution from my time as post-doc on the [*Major Transitions in the Evolution of Cognition](https://www.templetonworldcharity.org/projects-resources/project-database/0539):
+- [Exploring Major Transitions in the Evolution of Biological Cognition With Artificial Neural Networks](https://arxiv.org/abs/2509.13968). *Under review*. We use artificial grammar learning and artificial neural networks to empirically evaluate to proposed major transitions in the evolution of biological cognition.
+
 In linguistics, I continue to dream of making a sizeable contribution. For now, I have contributed to:
 - [Metatheoretical linguistics: A philosopher’s guide (2024)](https://bioling.psychopen.eu/index.php/bioling/article/view/15915). *Accepted in Biolinguistics* We review Ryan Nefdt's *The Philosophy of Theoretical Linguistics* (2024), giving a balanced account of its achievements and its shortcomings over the course of 15 pages.
 - [Oops, I Did It Again: A typology of phonological iterativity (2021)](https://yale.app.box.com/s/apgexsa39cbj7k0lr1qcdl0hs9ogyer1) *Accepted at the Penn Linguistics Conference*. We present several examples and a formal analysis of iterative phonological rule applications in the phonological systems of the world's languages. I really only contributed a small amount - it was nice that the co-authors had me on-board!
