@@ -15,4 +15,4 @@ You can read an [annotated list of his key publications here]({{ "/publications/
 
 People call me Kozzy for short.
 
-The best place to contact me at the moment is at \[first-full-name\] \[dot\] \[surname\] \[little-monkey\] \[dsit.gov.uk\] 
+The best place to contact me at the moment is using the following code. Take my initials followed by the product of seven and forty-three. At them to srcf.net. Please tell me your favourite pasta shape in the post-script of your email, so that I know you are a real person.
